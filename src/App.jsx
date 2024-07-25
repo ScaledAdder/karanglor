@@ -7,6 +7,7 @@ import Culture from './Pages/Culture';
 import MicroEnterprise from './Pages/MicroEnterprise';
 import Tourism from './Pages/Tourism';
 import KKN from './Pages/KKN';
+import Info from './Pages/Info';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 
