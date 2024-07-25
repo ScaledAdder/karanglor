@@ -22,7 +22,7 @@ function App() {
         <Route path="/microenterprise" element={<MicroEnterprise />} />
         <Route path="/tourism" element={<Tourism />} />
         <Route path="/kkn-uajy" element={<KKN />} />
-        {/* <Route path="/informasi" element={<Info />} /> */}
+        <Route path="/informasi" element={<Info />} />
       </Routes>
       <Footer />
     </Router>
