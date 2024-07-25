@@ -43,8 +43,7 @@ const Intro = () => {
           transition={{ duration: 0.5 }}
           className="text-white text-center"
         >
-          <h3 className="text-3xl md:text-4xlxl lg:text-6xl font-bold">Kebudayaan</h3>
-          <p className="text-md md:text-lg lg:text-xl max-w-2xl font-thin">ꦌꦣꦸꦏꦱꦶ</p>
+          <h3 className="text-3xl md:text-4xlxl lg:text-6xl font-bold">Informasi & Berita</h3>
         </motion.div>
       </div>
     </div>
