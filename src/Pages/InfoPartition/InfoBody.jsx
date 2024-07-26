@@ -8,7 +8,7 @@ function Body() {
     <>
       <div>
         <div className="text-black m-5 p-2 border rounded-md bg-white bg-opacity-80">
-          <h1 className="text-2xl font-bold">Ketik Judul Informasi & Berita baru</h1>
+          <h1 className="text-2xl font-bold">Jathilan</h1>
           <div className="py-2 md:w-15 lg:w-20 grid grid-cols-2 gap-2 text-xs">
             <div className="flex items-center col-span-1 ">
               <img
