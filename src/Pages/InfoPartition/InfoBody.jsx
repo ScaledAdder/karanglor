@@ -24,17 +24,19 @@ function Body() {
               <p>Jumat, 26 Juli 2024</p>
             </div>
           </div>
-          <p className="text-sm font-light mt-4">
-           Berita terkini dari karanglor, Rasulan telah hadir kembali
-          </p>
+          <div>
+            <p className="text-sm font-light mt-4">
+             Berita terkini dari karanglor, Rasulan telah hadir kembali
+            </p>
           
-          <p className="text-sm font-light mt-2">
-            srdtyuhgcxcvbmnmbvcbnmvbcxghewredgvbcxcgdrswer6trysfdgjvbccbvsdaerytdfgbv v456eracxdw56reshgfcv
-          </p>
+            <p className="text-sm font-light mt-2">
+              srdtyuhgcxcvbmnmbvcbnmvbcxghewredgvbcxcgdrswer6trysfdgjvbccbvsdaerytdfgbv v456eracxdw56reshgfcv
+            </p>
 
-           <p className="text-sm font-light mt-4">
-           Berita terkini dari karanglor, Rasulan telah hadir kembali
-          </p>
+             <p className="text-sm font-light mt-4">
+               Berita terkini dari karanglor, Rasulan telah hadir kembali
+            </p>
+          </div>
         </div>
       </div>
       
