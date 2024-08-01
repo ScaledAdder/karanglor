@@ -8,6 +8,36 @@ function Body() {
     <>
       <div>
         <div className="text-black m-5 p-2 border rounded-md bg-white bg-opacity-80">
+          <h1 className="text-2xl font-bold"> pemasangan lampu panel surya</h1>
+          <div className="py-2 md:w-15 lg:w-20 grid grid-cols-2 gap-2 text-xs">
+            <div className="flex items-center col-span-1 ">
+              <img
+                src={logoDesa}
+                alt="Logo"
+                className="object-contain w-5 mr-2"
+              />
+              <p className="">Karanglor</p>
+            </div>
+
+            <div className="flex items-center col-span-1">
+              <img src={calendar} alt="Calendar" className="w-5 mr-2" />
+              <p>Kamis, 01 Agustus 2024</p>
+            </div>
+          </div>
+          <p className="text-sm font-light mt-4">
+           pemasangan lampu panel surya KKN bersama masyarakat di RT01 karanglor 
+          </p>
+          <p className="text-sm font-light mt-2">
+            Alenia 2
+          </p>
+          <p className="text-sm font-light mt-2">
+            Alenia 3
+          </p>
+        </div>
+      </div>
+      
+      <div>
+        <div className="text-black m-5 p-2 border rounded-md bg-white bg-opacity-80">
           <h1 className="text-2xl font-bold">Rasulan</h1>
           <div className="py-2 md:w-15 lg:w-20 grid grid-cols-2 gap-2 text-xs">
             <div className="flex items-center col-span-1 ">
