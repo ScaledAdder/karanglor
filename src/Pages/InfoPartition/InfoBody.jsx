@@ -29,9 +29,7 @@ function Body() {
              Berita terkini dari karanglor, Rasulan telah hadir kembali
             </p>
           
-            <p className="text-sm font-light mt-2">
-              srdtyuhgcxcvbmnmbvcbnmvbcxghewredgvbcxcgdrswer6trysfdgjvbccbvsdaerytdfgbv v456eracxdw56reshgfcv
-            </p>
+              srdtyuhgcxcvbmnmbvcbnmvbcxghewredgvbcxcgdrswer6trysfdgjvbccbvsdaerytdfgbv v456eracxdw56reshgfcv  
 
             <p className="text-sm font-light mt-4">
              Berita terkini dari karanglor, Rasulan telah hadir kembali
