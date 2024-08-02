@@ -28,7 +28,7 @@ function Body() {
            pemasangan lampu panel surya KKN bersama masyarakat di RT01 karanglor 
           </p>
           <p className="text-sm font-light mt-2">
-            Alenia 2
+            panel surya telah dipasang dan membantu masyarakat dalam penerangan disaat malam hari
           </p>
           <p className="text-sm font-light mt-2">
             Alenia 3
